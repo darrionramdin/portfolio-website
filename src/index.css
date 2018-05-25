@@ -1,0 +1,25 @@
+/* COLORS */
+
+.bg-haiti {
+  background: #0d0d2b;
+}
+
+.bg-jaguar {
+  background: #0A0319;
+}
+
+/* FONTS */
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* MOBILE NAV */
+.mobile-nav-menu {
+  border-bottom-left-radius: 250px;
+}
+
+.bar {
+  height: 2px;
+  width: 30px;
+  margin: 4px 0;
+}
